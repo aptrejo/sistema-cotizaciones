@@ -1,7 +1,10 @@
 language: java
 jdk:
   - openjdk17
+# activando travis
 
 script:
-  - echo "Build ejecutado correctamente desde Travis CI"
+- echo "Primer build ejecutado correctamente"
+
+
 
