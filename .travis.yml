@@ -1,10 +1,6 @@
 language: java
 jdk:
   - openjdk17
-# activando travis
 
 script:
-
-- echo "Primer build ejecutado correctamente"
-
-
+  - mvn -q test
