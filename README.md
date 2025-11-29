@@ -1,2 +1,2 @@
 # Sistema de Cotizaciones
-Prueba inicial para activar Travis CI.
+Prueba 2 para activar Travis.
