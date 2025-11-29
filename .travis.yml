@@ -3,4 +3,5 @@ jdk:
   - openjdk17
 
 script:
-  - echo "Build ejecutado correctamente"
+  - echo "Build ejecutado correctamente desde Travis CI"
+
